@@ -1,2 +1,2 @@
-# ansible-pr-por
- waa ansible practice project
+# ansible-pr-pro
+its learning practic project for ansible 
